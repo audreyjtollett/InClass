@@ -1,0 +1,38 @@
+JavaDocs!!!
+written with /** and */
+by convention you start remaining lines with a *
+
+/**
+*Description of method in english
+*@param arg 1 Description of first argument
+*@param arg 2 description of second argument
+*@return describe what javadocs returns
+*/
+
+YAY java API
+
+comprehensive javadocs is very handy for team projects
+may do this for future homeworks (post spring break)
+poker code OG has examples of the javadocs and it generates a lil website in normie format yas slay
+
+good habit! specific to java but yes good habit 
+
+Set (discrete) vs. array list
+-no duplicates
+-simple operations
+-no specific order
+There is a type for sets in java!
+java.util.HashSet
+also has angle brackets <>
+fun little methods!!!
+    add(E e)
+    clone()
+    contains(Object o)
+    toArray()
+
+Syntax IE
+HashSet<String> set = new HashSet<String>();
+
+    addAll(HashSet s)
+    retainAll(HashSet s)
+    removeAll(HashSet s)
